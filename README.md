@@ -1,7 +1,5 @@
-### Hi there!
-## Welcome to My GitHub Profile! 👋
+## Hi there, welcome to My GitHub profile! 👋
 ![cognitivescience](https://github.com/aliefgreen6/aliefgreen6/assets/162982693/80e9bd51-1c8f-405c-8003-f5dc17e26a56)
-
 
 I'm Dr. Alice Liefgreen, a research fellow and lecturer at UCL in the division of Psychology and Language Sciences. I am currently working my way through the Data Science course with [Hyperion Dev](https://www.hyperiondev.com/). Here you'll find example data science projects and more!
 
@@ -15,4 +13,3 @@ I am a Lecturer in the Language and Cognition Department at UCL. I hold an Honor
 📫 aliceliefgreen@gmail.com
 
 
--->
